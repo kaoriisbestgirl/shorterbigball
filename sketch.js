@@ -33,7 +33,7 @@ let xpos = H/2;
 let ypos = W/2;
 let scorePressure = 1;
 let newdist = 0;
-let scorePrise = 35;
+let scorePrise = 26.28;
 let highScore = 0;
 let eps = 0;
 let ingame = true;
@@ -63,7 +63,7 @@ function gameSetup()
   overall = 0;
   time = 0;
   newTime = 0;
-  score = 100;
+  score = 75;
   timecheck = 0;
   ingame = true;
   scorePressure = 0;
